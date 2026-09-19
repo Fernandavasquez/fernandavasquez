@@ -25,7 +25,6 @@
 
 - :school: I am a `Junior` at Faculty of Computers & Informatics at University Landivar.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer.
 - :student:I'm a Engineer
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
